@@ -27,8 +27,7 @@ Cons:
 <img width=100% src="img/feature-extraction.png" width="212px" alt="Feature extraction">
 Formula for getting sequence of words W from language L, maximizing following condition
 <img width=50% style="display:block; margin: 0 auto" src="img/formula-1.png" width="212px" alt="Formula - 1">
-
-<li></li>
+<li>We are trying to map input to output</li>
 
 </ul>
 
